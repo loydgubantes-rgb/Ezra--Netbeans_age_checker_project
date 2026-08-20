@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author SkywereDaSharj
+ * @author Ezra Loyd. Gubantes
  */
 public class JavaApplication1 {
 
